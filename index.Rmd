@@ -1,8 +1,8 @@
 ---
-title: "version control with Git & GitHub"
+title: FALSE
 subtitle: FALSE
 author: FALSE
-date: "2019-01-25"
+date: FALSE
 output:
   xaringan::moon_reader:
     lib_dir: libs
