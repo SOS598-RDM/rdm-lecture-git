@@ -13,9 +13,7 @@ output:
       countIncrementalSlides: false
 ---
 
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE)
-```
+
 
 class: inverse, middle, center
 
@@ -27,7 +25,6 @@ class: inverse, middle, center
 
 
 ---
-class: middle
 
 #### what does it do?
 
@@ -39,41 +36,35 @@ class: middle
 
 * git also keeps an eye out for conflicts, and forces you to resolve them
 
+.footnote[Jeff Goldsmith ["Git"](https://speakerdeck.com/jeffgoldsmith/dsi-git-and-github)]
+
 
 ---
-class: middle
 
-when combined with a service such as **GitHub**, it allows multiple people to contribute to the same repository, and does all of the aforementioned for everyone at once
+#### git + GitHub 
+
+when combined with a service such as GitHub
+
+* ...allows multiple people to contribute to the same repository, and does all of the aforementioned for everyone at once
 
 .center[
   <img src="assets/figures/git_collaboration.png" width="65%">
 ]
 
-.footnote[
-  Bryan 2018 [*Excuse Me, Do You Have a Moment to Talk About Version Control?*](https://doi.org/10.1080/00031305.2017.1399928)
-]
+.footnote[Bryan 2018](https://doi.org/10.1080/00031305.2017.1399928)]
 
-???
-
-#### git and GitHub 
 
 ---
-class: middle
 
-it is all about taming chaos...
+#### version control: git
+
+.light-blue[tame the chaos] 👏
 
 .center[
-  <img src="assets/figures/git_flow.png" width="70%">
+  <img src="assets/figures/git_flow.png" width="80%">
 ]
 
-.footnote[
-  Bryan 2018 [*Excuse Me, Do You Have a Moment to Talk About Version Control?*](https://doi.org/10.1080/00031305.2017.1399928)
-]
-
-???
-
-#### tame the chaos
-
+.footnote[Bryan 2018](https://doi.org/10.1080/00031305.2017.1399928)]
 
 ---
 class: inverse, middle, center
