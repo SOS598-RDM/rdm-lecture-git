@@ -4,9 +4,9 @@
 
 For new installations, users will need to establish at least their global `user.name` and `user.email`. See *Getting-Started-First-Time-Git-Setup* in the [Git documentation](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) for more details.
 
-`git config --global user.name 'Jane Doe'`
+`git config --global user.name 'Jane Doe'`  
 `git config --global user.email 'jane@example.com'`  
-
+<br>
 `git config --global --list`
 
 
